@@ -11,6 +11,7 @@ function formatPriceInMillionVnd(price: number): string {
 
 export default function Home() {
   const [featuredProperties, setFeaturedProperties] = useState<PropertyCard[]>([]);
+  const [currentCityImage, setCurrentCityImage] = useState<'tphcm' | 'hanoi'>('tphcm');
 
   useEffect(() => {
     const loadFeatured = async () => {
@@ -25,13 +26,26 @@ export default function Home() {
     void loadFeatured();
   }, []);
 
+  // Alternate between TPHCM and Hanoi images every 5 seconds
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setCurrentCityImage((prev) => (prev === 'tphcm' ? 'hanoi' : 'tphcm'));
+    }, 5000);
+
+    return () => clearInterval(interval);
+  }, []);
+
   return (
     <div className="flex flex-col">
       {/* Hero Section */}
       <header className="relative w-full h-[80vh] min-h-[600px] flex items-center overflow-hidden">
-        <img
-          src="/pic/house.jpg"
-          alt="Modern luxury home"
+        <motion.img
+          key={currentCityImage}
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ duration: 1 }}
+          src={currentCityImage === 'tphcm' ? '/pic/tphcm.webp' : '/pic/hanoi.jpg'}
+          alt={currentCityImage === 'tphcm' ? 'Ho Chi Minh City' : 'Hanoi'}
           className="absolute inset-0 w-full h-full object-cover"
           referrerPolicy="no-referrer"
         />
