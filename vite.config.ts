@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: process.env.NODE_ENV === 'production' ? '/AI_Predict_Price_House/' : '/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
