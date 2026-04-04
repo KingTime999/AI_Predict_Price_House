@@ -41,7 +41,10 @@ export default function Footer() {
       </div>
       
       <div className="max-w-7xl mx-auto px-8 py-8 border-t border-slate-200 flex flex-col md:flex-row justify-between items-center gap-4">
-        <p className="text-[10px] uppercase tracking-widest text-slate-500 font-bold">© 2024 PredictMyHome. Meticulously engineered for precision.</p>
+        <div>
+          <p className="text-[10px] uppercase tracking-widest text-slate-500 font-bold">© 2026 PredictMyHome. Meticulously engineered for precision.</p>
+          <p className="text-[10px] uppercase tracking-widest text-slate-400 font-semibold mt-1">This website is for educational purposes only.</p>
+        </div>
         <div className="flex space-x-8">
           <Link to="#" className="text-[10px] uppercase font-bold text-slate-500 hover:text-primary">Terms of Service</Link>
           <Link to="#" className="text-[10px] uppercase font-bold text-slate-500 hover:text-primary">Cookie Settings</Link>

@@ -2,6 +2,15 @@
 
 A modern full-stack web application for searching, viewing, and predicting residential property prices in Vietnam. Built with React+Vite frontend, FastAPI backend, MongoDB database, and machine learning.
 
+## 👥 Team Members
+
+- **Ngo Khai Luan** - 2374802010295
+- **Bui Tien Dat** - 2374802010094
+- **Nguyen Hoang Tien** - 2374802010494
+- **Pham Le Duy Bao** - 2374802010043
+- **Le Tan Nguyen** - 2374802010354
+
+
 ## Overview
 
 This integrated real estate platform offers:
