@@ -99,7 +99,7 @@ export default function Contact() {
           </div>
 
           <div className="bg-slate-100 rounded-2xl flex-grow overflow-hidden relative min-h-[300px]">
-            <img src="https://picsum.photos/seed/map/600/400" alt="Map" className="w-full h-full object-cover grayscale" referrerPolicy="no-referrer" />
+            <img src="/pic/house.jpg" alt="Map" className="w-full h-full object-cover grayscale" referrerPolicy="no-referrer" />
             <div className="absolute inset-0 bg-primary/10 mix-blend-multiply"></div>
             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
               <div className="w-12 h-12 bg-secondary rounded-full flex items-center justify-center text-white shadow-xl">

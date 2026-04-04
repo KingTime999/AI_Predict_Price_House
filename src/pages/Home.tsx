@@ -30,7 +30,7 @@ export default function Home() {
       {/* Hero Section */}
       <header className="relative w-full h-[80vh] min-h-[600px] flex items-center overflow-hidden">
         <img
-          src="https://picsum.photos/seed/luxury-home/1920/1080"
+          src="/pic/house.jpg"
           alt="Modern luxury home"
           className="absolute inset-0 w-full h-full object-cover"
           referrerPolicy="no-referrer"
@@ -96,7 +96,7 @@ export default function Home() {
           </div>
           <div className="md:col-span-7 relative">
             <div className="aspect-video rounded-xl overflow-hidden shadow-2xl">
-              <img src="https://picsum.photos/seed/interior/800/600" alt="Interior" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+              <img src="/pic/house.jpg" alt="Interior" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
             </div>
             <div className="absolute -bottom-8 -left-8 glass-panel p-6 rounded-xl shadow-xl max-w-xs border-l-4 border-secondary">
               <div className="flex items-center gap-3 mb-2 text-secondary">

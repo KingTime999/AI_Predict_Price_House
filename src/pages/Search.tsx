@@ -140,7 +140,7 @@ export default function SearchPage() {
               >
                 <Link to={`/property/${property.id}`}>
                   <div className="relative h-64 overflow-hidden">
-                    <img src={property.image} alt={property.title} className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" referrerPolicy="no-referrer" />
+                    <img src={property.image || '/pic/house.jpg'} alt={property.title} className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" referrerPolicy="no-referrer" />
                     <div className="absolute top-4 left-4 flex gap-2">
                       <span className="bg-primary/90 text-white text-[10px] font-bold uppercase tracking-widest px-3 py-1.5 rounded backdrop-blur-md">{property.tag}</span>
                     </div>

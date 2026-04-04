@@ -44,7 +44,7 @@ export default function Activity() {
                   <img 
                     alt="Modern Villa" 
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" 
-                    src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800" 
+                    src="/pic/house.jpg" 
                   />
                   <div className="absolute top-6 left-6 bg-white/90 backdrop-blur-md px-4 py-1.5 rounded-full text-[10px] font-black text-primary uppercase tracking-widest shadow-lg">
                     For Sale
@@ -70,7 +70,7 @@ export default function Activity() {
                   <img 
                     alt="Luxury Estate" 
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" 
-                    src="https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&q=80&w=800" 
+                    src="/pic/house.jpg" 
                   />
                   <div className="absolute top-6 left-6 bg-white/90 backdrop-blur-md px-4 py-1.5 rounded-full text-[10px] font-black text-primary uppercase tracking-widest shadow-lg">
                     Pending

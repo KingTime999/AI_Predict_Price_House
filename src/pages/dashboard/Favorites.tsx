@@ -110,9 +110,9 @@ export default function Favorites() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
               {[
-                { title: 'Oak Ridge Estate', price: '$4,250,000', mls: '882910', location: 'Bel Air, Los Angeles, CA', growth: '+14%', beds: 5, baths: 6.5, area: '8.4k', image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800' },
-                { title: 'Glass Pavilion House', price: '$2,890,000', mls: '112039', location: 'Pacific Heights, San Francisco, CA', growth: 'High ROI', beds: 3, baths: 4, area: '3.2k', image: 'https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&q=80&w=800' },
-                { title: 'The Concrete Loft', price: '$1,550,000', mls: '992011', location: 'East Austin, TX', growth: 'Target Met', beds: 2, baths: 2.5, area: '1.8k', image: 'https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&q=80&w=800' },
+                { title: 'Oak Ridge Estate', price: '$4,250,000', mls: '882910', location: 'Bel Air, Los Angeles, CA', growth: '+14%', beds: 5, baths: 6.5, area: '8.4k', image: '/pic/house.jpg' },
+                { title: 'Glass Pavilion House', price: '$2,890,000', mls: '112039', location: 'Pacific Heights, San Francisco, CA', growth: 'High ROI', beds: 3, baths: 4, area: '3.2k', image: '/pic/house.jpg' },
+                { title: 'The Concrete Loft', price: '$1,550,000', mls: '992011', location: 'East Austin, TX', growth: 'Target Met', beds: 2, baths: 2.5, area: '1.8k', image: '/pic/house.jpg' },
               ].map((item, idx) => (
                 <div key={idx} className={`group bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500 border border-slate-50 ${idx === 2 ? 'border-l-4 border-secondary' : ''}`}>
                   <div className="h-64 relative overflow-hidden">

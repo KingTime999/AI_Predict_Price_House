@@ -157,7 +157,7 @@ export default function InquirySuccess() {
                     <img 
                       key={i}
                       className="w-10 h-10 rounded-full border-2 border-white object-cover" 
-                      src={`https://images.unsplash.com/photo-${1500000000000 + i * 100000}?auto=format&fit=crop&q=80&w=100`}
+                      src="/pic/house.jpg"
                       alt="Agent"
                     />
                   ))}

@@ -13,12 +13,12 @@
     "frontage": 8.8,
     "furniture_state": "Fully furnished",
     "house_direction": "Southwest",
-    "image_url": "https://picsum.photos/seed/seed-00001/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00001-1/1200/800",
-      "https://picsum.photos/seed/seed-00001-2/1200/800",
-      "https://picsum.photos/seed/seed-00001-3/1200/800",
-      "https://picsum.photos/seed/seed-00001-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 7633.01,
@@ -38,12 +38,12 @@
     "frontage": 8.2,
     "furniture_state": "Fully furnished",
     "house_direction": "Southeast",
-    "image_url": "https://picsum.photos/seed/seed-00002/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00002-1/1200/800",
-      "https://picsum.photos/seed/seed-00002-2/1200/800",
-      "https://picsum.photos/seed/seed-00002-3/1200/800",
-      "https://picsum.photos/seed/seed-00002-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 23501.81,
@@ -63,12 +63,12 @@
     "frontage": 5.4,
     "furniture_state": "Basic furnished",
     "house_direction": "West",
-    "image_url": "https://picsum.photos/seed/seed-00003/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00003-1/1200/800",
-      "https://picsum.photos/seed/seed-00003-2/1200/800",
-      "https://picsum.photos/seed/seed-00003-3/1200/800",
-      "https://picsum.photos/seed/seed-00003-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 19424.11,
@@ -88,12 +88,12 @@
     "frontage": 6.4,
     "furniture_state": "Unfurnished",
     "house_direction": "Southeast",
-    "image_url": "https://picsum.photos/seed/seed-00004/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00004-1/1200/800",
-      "https://picsum.photos/seed/seed-00004-2/1200/800",
-      "https://picsum.photos/seed/seed-00004-3/1200/800",
-      "https://picsum.photos/seed/seed-00004-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 8415.27,
@@ -113,12 +113,12 @@
     "frontage": 7.5,
     "furniture_state": "N/A",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00005/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00005-1/1200/800",
-      "https://picsum.photos/seed/seed-00005-2/1200/800",
-      "https://picsum.photos/seed/seed-00005-3/1200/800",
-      "https://picsum.photos/seed/seed-00005-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 8405.72,
@@ -138,12 +138,12 @@
     "frontage": 9.4,
     "furniture_state": "Fully furnished",
     "house_direction": "Southeast",
-    "image_url": "https://picsum.photos/seed/seed-00006/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00006-1/1200/800",
-      "https://picsum.photos/seed/seed-00006-2/1200/800",
-      "https://picsum.photos/seed/seed-00006-3/1200/800",
-      "https://picsum.photos/seed/seed-00006-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 8592.52,
@@ -163,12 +163,12 @@
     "frontage": 8.1,
     "furniture_state": "Basic furnished",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00007/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00007-1/1200/800",
-      "https://picsum.photos/seed/seed-00007-2/1200/800",
-      "https://picsum.photos/seed/seed-00007-3/1200/800",
-      "https://picsum.photos/seed/seed-00007-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 19598.52,
@@ -188,12 +188,12 @@
     "frontage": 6.6,
     "furniture_state": "Unfurnished",
     "house_direction": "Northwest",
-    "image_url": "https://picsum.photos/seed/seed-00008/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00008-1/1200/800",
-      "https://picsum.photos/seed/seed-00008-2/1200/800",
-      "https://picsum.photos/seed/seed-00008-3/1200/800",
-      "https://picsum.photos/seed/seed-00008-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 5285.79,
@@ -213,12 +213,12 @@
     "frontage": 6.6,
     "furniture_state": "Basic furnished",
     "house_direction": "North",
-    "image_url": "https://picsum.photos/seed/seed-00009/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00009-1/1200/800",
-      "https://picsum.photos/seed/seed-00009-2/1200/800",
-      "https://picsum.photos/seed/seed-00009-3/1200/800",
-      "https://picsum.photos/seed/seed-00009-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 4534.65,
@@ -238,12 +238,12 @@
     "frontage": 7.6,
     "furniture_state": "Fully furnished",
     "house_direction": "Northwest",
-    "image_url": "https://picsum.photos/seed/seed-00010/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00010-1/1200/800",
-      "https://picsum.photos/seed/seed-00010-2/1200/800",
-      "https://picsum.photos/seed/seed-00010-3/1200/800",
-      "https://picsum.photos/seed/seed-00010-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 17556.83,
@@ -263,12 +263,12 @@
     "frontage": 3.9,
     "furniture_state": "Unfurnished",
     "house_direction": "South",
-    "image_url": "https://picsum.photos/seed/seed-00011/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00011-1/1200/800",
-      "https://picsum.photos/seed/seed-00011-2/1200/800",
-      "https://picsum.photos/seed/seed-00011-3/1200/800",
-      "https://picsum.photos/seed/seed-00011-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 11042.51,
@@ -288,12 +288,12 @@
     "frontage": 9.1,
     "furniture_state": "Basic furnished",
     "house_direction": "Northeast",
-    "image_url": "https://picsum.photos/seed/seed-00012/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00012-1/1200/800",
-      "https://picsum.photos/seed/seed-00012-2/1200/800",
-      "https://picsum.photos/seed/seed-00012-3/1200/800",
-      "https://picsum.photos/seed/seed-00012-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 13958.64,
@@ -313,12 +313,12 @@
     "frontage": 6.6,
     "furniture_state": "N/A",
     "house_direction": "Northwest",
-    "image_url": "https://picsum.photos/seed/seed-00013/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00013-1/1200/800",
-      "https://picsum.photos/seed/seed-00013-2/1200/800",
-      "https://picsum.photos/seed/seed-00013-3/1200/800",
-      "https://picsum.photos/seed/seed-00013-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 11757.98,
@@ -338,12 +338,12 @@
     "frontage": 8.7,
     "furniture_state": "Fully furnished",
     "house_direction": "North",
-    "image_url": "https://picsum.photos/seed/seed-00014/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00014-1/1200/800",
-      "https://picsum.photos/seed/seed-00014-2/1200/800",
-      "https://picsum.photos/seed/seed-00014-3/1200/800",
-      "https://picsum.photos/seed/seed-00014-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 9698.32,
@@ -363,12 +363,12 @@
     "frontage": 6.1,
     "furniture_state": "N/A",
     "house_direction": "Northwest",
-    "image_url": "https://picsum.photos/seed/seed-00015/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00015-1/1200/800",
-      "https://picsum.photos/seed/seed-00015-2/1200/800",
-      "https://picsum.photos/seed/seed-00015-3/1200/800",
-      "https://picsum.photos/seed/seed-00015-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 24186.02,
@@ -388,12 +388,12 @@
     "frontage": 8.3,
     "furniture_state": "Basic furnished",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00016/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00016-1/1200/800",
-      "https://picsum.photos/seed/seed-00016-2/1200/800",
-      "https://picsum.photos/seed/seed-00016-3/1200/800",
-      "https://picsum.photos/seed/seed-00016-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 5891.15,
@@ -413,12 +413,12 @@
     "frontage": 5.0,
     "furniture_state": "Unfurnished",
     "house_direction": "North",
-    "image_url": "https://picsum.photos/seed/seed-00017/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00017-1/1200/800",
-      "https://picsum.photos/seed/seed-00017-2/1200/800",
-      "https://picsum.photos/seed/seed-00017-3/1200/800",
-      "https://picsum.photos/seed/seed-00017-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 15661.06,
@@ -438,12 +438,12 @@
     "frontage": 7.6,
     "furniture_state": "Fully furnished",
     "house_direction": "Southwest",
-    "image_url": "https://picsum.photos/seed/seed-00018/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00018-1/1200/800",
-      "https://picsum.photos/seed/seed-00018-2/1200/800",
-      "https://picsum.photos/seed/seed-00018-3/1200/800",
-      "https://picsum.photos/seed/seed-00018-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 16812.56,
@@ -463,12 +463,12 @@
     "frontage": 6.2,
     "furniture_state": "Unfurnished",
     "house_direction": "Southeast",
-    "image_url": "https://picsum.photos/seed/seed-00019/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00019-1/1200/800",
-      "https://picsum.photos/seed/seed-00019-2/1200/800",
-      "https://picsum.photos/seed/seed-00019-3/1200/800",
-      "https://picsum.photos/seed/seed-00019-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 20990.54,
@@ -488,12 +488,12 @@
     "frontage": 5.0,
     "furniture_state": "Basic furnished",
     "house_direction": "Southwest",
-    "image_url": "https://picsum.photos/seed/seed-00020/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00020-1/1200/800",
-      "https://picsum.photos/seed/seed-00020-2/1200/800",
-      "https://picsum.photos/seed/seed-00020-3/1200/800",
-      "https://picsum.photos/seed/seed-00020-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 6941.85,
@@ -513,12 +513,12 @@
     "frontage": 4.3,
     "furniture_state": "N/A",
     "house_direction": "Southwest",
-    "image_url": "https://picsum.photos/seed/seed-00021/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00021-1/1200/800",
-      "https://picsum.photos/seed/seed-00021-2/1200/800",
-      "https://picsum.photos/seed/seed-00021-3/1200/800",
-      "https://picsum.photos/seed/seed-00021-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 6569.59,
@@ -538,12 +538,12 @@
     "frontage": 5.9,
     "furniture_state": "Unfurnished",
     "house_direction": "Northeast",
-    "image_url": "https://picsum.photos/seed/seed-00022/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00022-1/1200/800",
-      "https://picsum.photos/seed/seed-00022-2/1200/800",
-      "https://picsum.photos/seed/seed-00022-3/1200/800",
-      "https://picsum.photos/seed/seed-00022-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 5187.4,
@@ -563,12 +563,12 @@
     "frontage": 7.8,
     "furniture_state": "N/A",
     "house_direction": "North",
-    "image_url": "https://picsum.photos/seed/seed-00023/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00023-1/1200/800",
-      "https://picsum.photos/seed/seed-00023-2/1200/800",
-      "https://picsum.photos/seed/seed-00023-3/1200/800",
-      "https://picsum.photos/seed/seed-00023-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 16802.86,
@@ -588,12 +588,12 @@
     "frontage": 6.7,
     "furniture_state": "Unfurnished",
     "house_direction": "Southeast",
-    "image_url": "https://picsum.photos/seed/seed-00024/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00024-1/1200/800",
-      "https://picsum.photos/seed/seed-00024-2/1200/800",
-      "https://picsum.photos/seed/seed-00024-3/1200/800",
-      "https://picsum.photos/seed/seed-00024-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 4472.69,
@@ -613,12 +613,12 @@
     "frontage": 7.7,
     "furniture_state": "N/A",
     "house_direction": "Northwest",
-    "image_url": "https://picsum.photos/seed/seed-00025/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00025-1/1200/800",
-      "https://picsum.photos/seed/seed-00025-2/1200/800",
-      "https://picsum.photos/seed/seed-00025-3/1200/800",
-      "https://picsum.photos/seed/seed-00025-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 8115.67,
@@ -638,12 +638,12 @@
     "frontage": 3.7,
     "furniture_state": "Unfurnished",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00026/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00026-1/1200/800",
-      "https://picsum.photos/seed/seed-00026-2/1200/800",
-      "https://picsum.photos/seed/seed-00026-3/1200/800",
-      "https://picsum.photos/seed/seed-00026-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 6179.87,
@@ -663,12 +663,12 @@
     "frontage": 4.4,
     "furniture_state": "Unfurnished",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00027/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00027-1/1200/800",
-      "https://picsum.photos/seed/seed-00027-2/1200/800",
-      "https://picsum.photos/seed/seed-00027-3/1200/800",
-      "https://picsum.photos/seed/seed-00027-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 16556.59,
@@ -688,12 +688,12 @@
     "frontage": 4.3,
     "furniture_state": "Basic furnished",
     "house_direction": "Southwest",
-    "image_url": "https://picsum.photos/seed/seed-00028/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00028-1/1200/800",
-      "https://picsum.photos/seed/seed-00028-2/1200/800",
-      "https://picsum.photos/seed/seed-00028-3/1200/800",
-      "https://picsum.photos/seed/seed-00028-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 15522.08,
@@ -713,12 +713,12 @@
     "frontage": 7.8,
     "furniture_state": "Fully furnished",
     "house_direction": "West",
-    "image_url": "https://picsum.photos/seed/seed-00029/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00029-1/1200/800",
-      "https://picsum.photos/seed/seed-00029-2/1200/800",
-      "https://picsum.photos/seed/seed-00029-3/1200/800",
-      "https://picsum.photos/seed/seed-00029-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 16278.69,
@@ -738,12 +738,12 @@
     "frontage": 3.4,
     "furniture_state": "Fully furnished",
     "house_direction": "Northwest",
-    "image_url": "https://picsum.photos/seed/seed-00030/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00030-1/1200/800",
-      "https://picsum.photos/seed/seed-00030-2/1200/800",
-      "https://picsum.photos/seed/seed-00030-3/1200/800",
-      "https://picsum.photos/seed/seed-00030-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 10142.03,
@@ -763,12 +763,12 @@
     "frontage": 5.8,
     "furniture_state": "Fully furnished",
     "house_direction": "North",
-    "image_url": "https://picsum.photos/seed/seed-00031/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00031-1/1200/800",
-      "https://picsum.photos/seed/seed-00031-2/1200/800",
-      "https://picsum.photos/seed/seed-00031-3/1200/800",
-      "https://picsum.photos/seed/seed-00031-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 8469.08,
@@ -788,12 +788,12 @@
     "frontage": 6.5,
     "furniture_state": "Basic furnished",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00032/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00032-1/1200/800",
-      "https://picsum.photos/seed/seed-00032-2/1200/800",
-      "https://picsum.photos/seed/seed-00032-3/1200/800",
-      "https://picsum.photos/seed/seed-00032-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 10246.07,
@@ -813,12 +813,12 @@
     "frontage": 9.5,
     "furniture_state": "Unfurnished",
     "house_direction": "Northeast",
-    "image_url": "https://picsum.photos/seed/seed-00033/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00033-1/1200/800",
-      "https://picsum.photos/seed/seed-00033-2/1200/800",
-      "https://picsum.photos/seed/seed-00033-3/1200/800",
-      "https://picsum.photos/seed/seed-00033-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 4578.92,
@@ -838,12 +838,12 @@
     "frontage": 5.9,
     "furniture_state": "N/A",
     "house_direction": "Southwest",
-    "image_url": "https://picsum.photos/seed/seed-00034/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00034-1/1200/800",
-      "https://picsum.photos/seed/seed-00034-2/1200/800",
-      "https://picsum.photos/seed/seed-00034-3/1200/800",
-      "https://picsum.photos/seed/seed-00034-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 6969.69,
@@ -863,12 +863,12 @@
     "frontage": 6.1,
     "furniture_state": "Unfurnished",
     "house_direction": "Southeast",
-    "image_url": "https://picsum.photos/seed/seed-00035/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00035-1/1200/800",
-      "https://picsum.photos/seed/seed-00035-2/1200/800",
-      "https://picsum.photos/seed/seed-00035-3/1200/800",
-      "https://picsum.photos/seed/seed-00035-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 6901.45,
@@ -888,12 +888,12 @@
     "frontage": 3.5,
     "furniture_state": "Fully furnished",
     "house_direction": "Southeast",
-    "image_url": "https://picsum.photos/seed/seed-00036/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00036-1/1200/800",
-      "https://picsum.photos/seed/seed-00036-2/1200/800",
-      "https://picsum.photos/seed/seed-00036-3/1200/800",
-      "https://picsum.photos/seed/seed-00036-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 17046.04,
@@ -913,12 +913,12 @@
     "frontage": 5.9,
     "furniture_state": "Unfurnished",
     "house_direction": "Northwest",
-    "image_url": "https://picsum.photos/seed/seed-00037/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00037-1/1200/800",
-      "https://picsum.photos/seed/seed-00037-2/1200/800",
-      "https://picsum.photos/seed/seed-00037-3/1200/800",
-      "https://picsum.photos/seed/seed-00037-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 13905.29,
@@ -938,12 +938,12 @@
     "frontage": 3.4,
     "furniture_state": "Unfurnished",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00038/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00038-1/1200/800",
-      "https://picsum.photos/seed/seed-00038-2/1200/800",
-      "https://picsum.photos/seed/seed-00038-3/1200/800",
-      "https://picsum.photos/seed/seed-00038-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 7183.9,
@@ -963,12 +963,12 @@
     "frontage": 7.3,
     "furniture_state": "Fully furnished",
     "house_direction": "Southwest",
-    "image_url": "https://picsum.photos/seed/seed-00039/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00039-1/1200/800",
-      "https://picsum.photos/seed/seed-00039-2/1200/800",
-      "https://picsum.photos/seed/seed-00039-3/1200/800",
-      "https://picsum.photos/seed/seed-00039-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 10782.25,
@@ -988,12 +988,12 @@
     "frontage": 4.5,
     "furniture_state": "Basic furnished",
     "house_direction": "Northeast",
-    "image_url": "https://picsum.photos/seed/seed-00040/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00040-1/1200/800",
-      "https://picsum.photos/seed/seed-00040-2/1200/800",
-      "https://picsum.photos/seed/seed-00040-3/1200/800",
-      "https://picsum.photos/seed/seed-00040-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 4739.14,
@@ -1013,12 +1013,12 @@
     "frontage": 5.8,
     "furniture_state": "Unfurnished",
     "house_direction": "Southwest",
-    "image_url": "https://picsum.photos/seed/seed-00041/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00041-1/1200/800",
-      "https://picsum.photos/seed/seed-00041-2/1200/800",
-      "https://picsum.photos/seed/seed-00041-3/1200/800",
-      "https://picsum.photos/seed/seed-00041-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 3889.75,
@@ -1038,12 +1038,12 @@
     "frontage": 6.1,
     "furniture_state": "Unfurnished",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00042/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00042-1/1200/800",
-      "https://picsum.photos/seed/seed-00042-2/1200/800",
-      "https://picsum.photos/seed/seed-00042-3/1200/800",
-      "https://picsum.photos/seed/seed-00042-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 11582.82,
@@ -1063,12 +1063,12 @@
     "frontage": 6.9,
     "furniture_state": "Fully furnished",
     "house_direction": "South",
-    "image_url": "https://picsum.photos/seed/seed-00043/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00043-1/1200/800",
-      "https://picsum.photos/seed/seed-00043-2/1200/800",
-      "https://picsum.photos/seed/seed-00043-3/1200/800",
-      "https://picsum.photos/seed/seed-00043-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 8769.87,
@@ -1088,12 +1088,12 @@
     "frontage": 4.8,
     "furniture_state": "Fully furnished",
     "house_direction": "Northwest",
-    "image_url": "https://picsum.photos/seed/seed-00044/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00044-1/1200/800",
-      "https://picsum.photos/seed/seed-00044-2/1200/800",
-      "https://picsum.photos/seed/seed-00044-3/1200/800",
-      "https://picsum.photos/seed/seed-00044-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 15863.72,
@@ -1113,12 +1113,12 @@
     "frontage": 6.3,
     "furniture_state": "Fully furnished",
     "house_direction": "South",
-    "image_url": "https://picsum.photos/seed/seed-00045/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00045-1/1200/800",
-      "https://picsum.photos/seed/seed-00045-2/1200/800",
-      "https://picsum.photos/seed/seed-00045-3/1200/800",
-      "https://picsum.photos/seed/seed-00045-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 2650.82,
@@ -1138,12 +1138,12 @@
     "frontage": 3.8,
     "furniture_state": "Unfurnished",
     "house_direction": "Northwest",
-    "image_url": "https://picsum.photos/seed/seed-00046/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00046-1/1200/800",
-      "https://picsum.photos/seed/seed-00046-2/1200/800",
-      "https://picsum.photos/seed/seed-00046-3/1200/800",
-      "https://picsum.photos/seed/seed-00046-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 15142.5,
@@ -1163,12 +1163,12 @@
     "frontage": 5.8,
     "furniture_state": "Unfurnished",
     "house_direction": "Southeast",
-    "image_url": "https://picsum.photos/seed/seed-00047/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00047-1/1200/800",
-      "https://picsum.photos/seed/seed-00047-2/1200/800",
-      "https://picsum.photos/seed/seed-00047-3/1200/800",
-      "https://picsum.photos/seed/seed-00047-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 8119.15,
@@ -1188,12 +1188,12 @@
     "frontage": 3.5,
     "furniture_state": "Unfurnished",
     "house_direction": "Southeast",
-    "image_url": "https://picsum.photos/seed/seed-00048/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00048-1/1200/800",
-      "https://picsum.photos/seed/seed-00048-2/1200/800",
-      "https://picsum.photos/seed/seed-00048-3/1200/800",
-      "https://picsum.photos/seed/seed-00048-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 18610.42,
@@ -1213,12 +1213,12 @@
     "frontage": 7.4,
     "furniture_state": "N/A",
     "house_direction": "North",
-    "image_url": "https://picsum.photos/seed/seed-00049/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00049-1/1200/800",
-      "https://picsum.photos/seed/seed-00049-2/1200/800",
-      "https://picsum.photos/seed/seed-00049-3/1200/800",
-      "https://picsum.photos/seed/seed-00049-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 6211.61,
@@ -1238,12 +1238,12 @@
     "frontage": 9.4,
     "furniture_state": "Fully furnished",
     "house_direction": "South",
-    "image_url": "https://picsum.photos/seed/seed-00050/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00050-1/1200/800",
-      "https://picsum.photos/seed/seed-00050-2/1200/800",
-      "https://picsum.photos/seed/seed-00050-3/1200/800",
-      "https://picsum.photos/seed/seed-00050-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 5354.61,
@@ -1263,12 +1263,12 @@
     "frontage": 6.3,
     "furniture_state": "N/A",
     "house_direction": "Southwest",
-    "image_url": "https://picsum.photos/seed/seed-00051/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00051-1/1200/800",
-      "https://picsum.photos/seed/seed-00051-2/1200/800",
-      "https://picsum.photos/seed/seed-00051-3/1200/800",
-      "https://picsum.photos/seed/seed-00051-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 15312.0,
@@ -1288,12 +1288,12 @@
     "frontage": 7.2,
     "furniture_state": "Unfurnished",
     "house_direction": "South",
-    "image_url": "https://picsum.photos/seed/seed-00052/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00052-1/1200/800",
-      "https://picsum.photos/seed/seed-00052-2/1200/800",
-      "https://picsum.photos/seed/seed-00052-3/1200/800",
-      "https://picsum.photos/seed/seed-00052-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 6816.58,
@@ -1313,12 +1313,12 @@
     "frontage": 6.7,
     "furniture_state": "Basic furnished",
     "house_direction": "South",
-    "image_url": "https://picsum.photos/seed/seed-00053/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00053-1/1200/800",
-      "https://picsum.photos/seed/seed-00053-2/1200/800",
-      "https://picsum.photos/seed/seed-00053-3/1200/800",
-      "https://picsum.photos/seed/seed-00053-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 5450.63,
@@ -1338,12 +1338,12 @@
     "frontage": 4.6,
     "furniture_state": "N/A",
     "house_direction": "West",
-    "image_url": "https://picsum.photos/seed/seed-00054/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00054-1/1200/800",
-      "https://picsum.photos/seed/seed-00054-2/1200/800",
-      "https://picsum.photos/seed/seed-00054-3/1200/800",
-      "https://picsum.photos/seed/seed-00054-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 7566.92,
@@ -1363,12 +1363,12 @@
     "frontage": 4.1,
     "furniture_state": "Fully furnished",
     "house_direction": "West",
-    "image_url": "https://picsum.photos/seed/seed-00055/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00055-1/1200/800",
-      "https://picsum.photos/seed/seed-00055-2/1200/800",
-      "https://picsum.photos/seed/seed-00055-3/1200/800",
-      "https://picsum.photos/seed/seed-00055-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 9581.25,
@@ -1388,12 +1388,12 @@
     "frontage": 3.4,
     "furniture_state": "Fully furnished",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00056/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00056-1/1200/800",
-      "https://picsum.photos/seed/seed-00056-2/1200/800",
-      "https://picsum.photos/seed/seed-00056-3/1200/800",
-      "https://picsum.photos/seed/seed-00056-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 7462.56,
@@ -1413,12 +1413,12 @@
     "frontage": 7.1,
     "furniture_state": "Fully furnished",
     "house_direction": "Northwest",
-    "image_url": "https://picsum.photos/seed/seed-00057/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00057-1/1200/800",
-      "https://picsum.photos/seed/seed-00057-2/1200/800",
-      "https://picsum.photos/seed/seed-00057-3/1200/800",
-      "https://picsum.photos/seed/seed-00057-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 5738.27,
@@ -1438,12 +1438,12 @@
     "frontage": 9.1,
     "furniture_state": "Unfurnished",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00058/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00058-1/1200/800",
-      "https://picsum.photos/seed/seed-00058-2/1200/800",
-      "https://picsum.photos/seed/seed-00058-3/1200/800",
-      "https://picsum.photos/seed/seed-00058-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 9881.94,
@@ -1463,12 +1463,12 @@
     "frontage": 7.8,
     "furniture_state": "Unfurnished",
     "house_direction": "South",
-    "image_url": "https://picsum.photos/seed/seed-00059/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00059-1/1200/800",
-      "https://picsum.photos/seed/seed-00059-2/1200/800",
-      "https://picsum.photos/seed/seed-00059-3/1200/800",
-      "https://picsum.photos/seed/seed-00059-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 7194.35,
@@ -1488,12 +1488,12 @@
     "frontage": 3.4,
     "furniture_state": "Basic furnished",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00060/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00060-1/1200/800",
-      "https://picsum.photos/seed/seed-00060-2/1200/800",
-      "https://picsum.photos/seed/seed-00060-3/1200/800",
-      "https://picsum.photos/seed/seed-00060-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 3682.15,
@@ -1513,12 +1513,12 @@
     "frontage": 6.3,
     "furniture_state": "Basic furnished",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00061/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00061-1/1200/800",
-      "https://picsum.photos/seed/seed-00061-2/1200/800",
-      "https://picsum.photos/seed/seed-00061-3/1200/800",
-      "https://picsum.photos/seed/seed-00061-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 20935.52,
@@ -1538,12 +1538,12 @@
     "frontage": 6.6,
     "furniture_state": "Basic furnished",
     "house_direction": "North",
-    "image_url": "https://picsum.photos/seed/seed-00062/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00062-1/1200/800",
-      "https://picsum.photos/seed/seed-00062-2/1200/800",
-      "https://picsum.photos/seed/seed-00062-3/1200/800",
-      "https://picsum.photos/seed/seed-00062-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 4497.9,
@@ -1563,12 +1563,12 @@
     "frontage": 6.7,
     "furniture_state": "N/A",
     "house_direction": "Southeast",
-    "image_url": "https://picsum.photos/seed/seed-00063/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00063-1/1200/800",
-      "https://picsum.photos/seed/seed-00063-2/1200/800",
-      "https://picsum.photos/seed/seed-00063-3/1200/800",
-      "https://picsum.photos/seed/seed-00063-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 15656.74,
@@ -1588,12 +1588,12 @@
     "frontage": 7.4,
     "furniture_state": "Fully furnished",
     "house_direction": "Northeast",
-    "image_url": "https://picsum.photos/seed/seed-00064/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00064-1/1200/800",
-      "https://picsum.photos/seed/seed-00064-2/1200/800",
-      "https://picsum.photos/seed/seed-00064-3/1200/800",
-      "https://picsum.photos/seed/seed-00064-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 9253.88,
@@ -1613,12 +1613,12 @@
     "frontage": 3.1,
     "furniture_state": "Unfurnished",
     "house_direction": "South",
-    "image_url": "https://picsum.photos/seed/seed-00065/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00065-1/1200/800",
-      "https://picsum.photos/seed/seed-00065-2/1200/800",
-      "https://picsum.photos/seed/seed-00065-3/1200/800",
-      "https://picsum.photos/seed/seed-00065-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 15933.85,
@@ -1638,12 +1638,12 @@
     "frontage": 6.1,
     "furniture_state": "Unfurnished",
     "house_direction": "Northeast",
-    "image_url": "https://picsum.photos/seed/seed-00066/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00066-1/1200/800",
-      "https://picsum.photos/seed/seed-00066-2/1200/800",
-      "https://picsum.photos/seed/seed-00066-3/1200/800",
-      "https://picsum.photos/seed/seed-00066-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 14043.89,
@@ -1663,12 +1663,12 @@
     "frontage": 4.4,
     "furniture_state": "Fully furnished",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00067/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00067-1/1200/800",
-      "https://picsum.photos/seed/seed-00067-2/1200/800",
-      "https://picsum.photos/seed/seed-00067-3/1200/800",
-      "https://picsum.photos/seed/seed-00067-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 9868.75,
@@ -1688,12 +1688,12 @@
     "frontage": 7.1,
     "furniture_state": "Fully furnished",
     "house_direction": "Northwest",
-    "image_url": "https://picsum.photos/seed/seed-00068/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00068-1/1200/800",
-      "https://picsum.photos/seed/seed-00068-2/1200/800",
-      "https://picsum.photos/seed/seed-00068-3/1200/800",
-      "https://picsum.photos/seed/seed-00068-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 19848.92,
@@ -1713,12 +1713,12 @@
     "frontage": 5.4,
     "furniture_state": "Basic furnished",
     "house_direction": "Northeast",
-    "image_url": "https://picsum.photos/seed/seed-00069/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00069-1/1200/800",
-      "https://picsum.photos/seed/seed-00069-2/1200/800",
-      "https://picsum.photos/seed/seed-00069-3/1200/800",
-      "https://picsum.photos/seed/seed-00069-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 4456.6,
@@ -1738,12 +1738,12 @@
     "frontage": 5.3,
     "furniture_state": "Unfurnished",
     "house_direction": "Northeast",
-    "image_url": "https://picsum.photos/seed/seed-00070/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00070-1/1200/800",
-      "https://picsum.photos/seed/seed-00070-2/1200/800",
-      "https://picsum.photos/seed/seed-00070-3/1200/800",
-      "https://picsum.photos/seed/seed-00070-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 9304.59,
@@ -1763,12 +1763,12 @@
     "frontage": 8.3,
     "furniture_state": "N/A",
     "house_direction": "West",
-    "image_url": "https://picsum.photos/seed/seed-00071/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00071-1/1200/800",
-      "https://picsum.photos/seed/seed-00071-2/1200/800",
-      "https://picsum.photos/seed/seed-00071-3/1200/800",
-      "https://picsum.photos/seed/seed-00071-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 20889.66,
@@ -1788,12 +1788,12 @@
     "frontage": 8.3,
     "furniture_state": "Unfurnished",
     "house_direction": "South",
-    "image_url": "https://picsum.photos/seed/seed-00072/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00072-1/1200/800",
-      "https://picsum.photos/seed/seed-00072-2/1200/800",
-      "https://picsum.photos/seed/seed-00072-3/1200/800",
-      "https://picsum.photos/seed/seed-00072-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 7926.9,
@@ -1813,12 +1813,12 @@
     "frontage": 3.8,
     "furniture_state": "N/A",
     "house_direction": "West",
-    "image_url": "https://picsum.photos/seed/seed-00073/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00073-1/1200/800",
-      "https://picsum.photos/seed/seed-00073-2/1200/800",
-      "https://picsum.photos/seed/seed-00073-3/1200/800",
-      "https://picsum.photos/seed/seed-00073-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 15537.1,
@@ -1838,12 +1838,12 @@
     "frontage": 3.8,
     "furniture_state": "Unfurnished",
     "house_direction": "West",
-    "image_url": "https://picsum.photos/seed/seed-00074/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00074-1/1200/800",
-      "https://picsum.photos/seed/seed-00074-2/1200/800",
-      "https://picsum.photos/seed/seed-00074-3/1200/800",
-      "https://picsum.photos/seed/seed-00074-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 12819.18,
@@ -1863,12 +1863,12 @@
     "frontage": 8.2,
     "furniture_state": "Fully furnished",
     "house_direction": "North",
-    "image_url": "https://picsum.photos/seed/seed-00075/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00075-1/1200/800",
-      "https://picsum.photos/seed/seed-00075-2/1200/800",
-      "https://picsum.photos/seed/seed-00075-3/1200/800",
-      "https://picsum.photos/seed/seed-00075-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 8964.46,
@@ -1888,12 +1888,12 @@
     "frontage": 6.9,
     "furniture_state": "Fully furnished",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00076/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00076-1/1200/800",
-      "https://picsum.photos/seed/seed-00076-2/1200/800",
-      "https://picsum.photos/seed/seed-00076-3/1200/800",
-      "https://picsum.photos/seed/seed-00076-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 20604.5,
@@ -1913,12 +1913,12 @@
     "frontage": 6.7,
     "furniture_state": "Fully furnished",
     "house_direction": "Southwest",
-    "image_url": "https://picsum.photos/seed/seed-00077/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00077-1/1200/800",
-      "https://picsum.photos/seed/seed-00077-2/1200/800",
-      "https://picsum.photos/seed/seed-00077-3/1200/800",
-      "https://picsum.photos/seed/seed-00077-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 16594.48,
@@ -1938,12 +1938,12 @@
     "frontage": 6.9,
     "furniture_state": "Fully furnished",
     "house_direction": "Southwest",
-    "image_url": "https://picsum.photos/seed/seed-00078/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00078-1/1200/800",
-      "https://picsum.photos/seed/seed-00078-2/1200/800",
-      "https://picsum.photos/seed/seed-00078-3/1200/800",
-      "https://picsum.photos/seed/seed-00078-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 12224.68,
@@ -1963,12 +1963,12 @@
     "frontage": 6.6,
     "furniture_state": "Basic furnished",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00079/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00079-1/1200/800",
-      "https://picsum.photos/seed/seed-00079-2/1200/800",
-      "https://picsum.photos/seed/seed-00079-3/1200/800",
-      "https://picsum.photos/seed/seed-00079-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 10832.47,
@@ -1988,12 +1988,12 @@
     "frontage": 7.3,
     "furniture_state": "N/A",
     "house_direction": "Southwest",
-    "image_url": "https://picsum.photos/seed/seed-00080/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00080-1/1200/800",
-      "https://picsum.photos/seed/seed-00080-2/1200/800",
-      "https://picsum.photos/seed/seed-00080-3/1200/800",
-      "https://picsum.photos/seed/seed-00080-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 17070.77,
@@ -2013,12 +2013,12 @@
     "frontage": 8.8,
     "furniture_state": "Fully furnished",
     "house_direction": "South",
-    "image_url": "https://picsum.photos/seed/seed-00081/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00081-1/1200/800",
-      "https://picsum.photos/seed/seed-00081-2/1200/800",
-      "https://picsum.photos/seed/seed-00081-3/1200/800",
-      "https://picsum.photos/seed/seed-00081-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 14564.98,
@@ -2038,12 +2038,12 @@
     "frontage": 5.5,
     "furniture_state": "Basic furnished",
     "house_direction": "South",
-    "image_url": "https://picsum.photos/seed/seed-00082/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00082-1/1200/800",
-      "https://picsum.photos/seed/seed-00082-2/1200/800",
-      "https://picsum.photos/seed/seed-00082-3/1200/800",
-      "https://picsum.photos/seed/seed-00082-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 14415.59,
@@ -2063,12 +2063,12 @@
     "frontage": 4.8,
     "furniture_state": "Unfurnished",
     "house_direction": "West",
-    "image_url": "https://picsum.photos/seed/seed-00083/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00083-1/1200/800",
-      "https://picsum.photos/seed/seed-00083-2/1200/800",
-      "https://picsum.photos/seed/seed-00083-3/1200/800",
-      "https://picsum.photos/seed/seed-00083-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 7762.28,
@@ -2088,12 +2088,12 @@
     "frontage": 9.2,
     "furniture_state": "Basic furnished",
     "house_direction": "Southeast",
-    "image_url": "https://picsum.photos/seed/seed-00084/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00084-1/1200/800",
-      "https://picsum.photos/seed/seed-00084-2/1200/800",
-      "https://picsum.photos/seed/seed-00084-3/1200/800",
-      "https://picsum.photos/seed/seed-00084-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 8830.97,
@@ -2113,12 +2113,12 @@
     "frontage": 5.7,
     "furniture_state": "N/A",
     "house_direction": "Northwest",
-    "image_url": "https://picsum.photos/seed/seed-00085/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00085-1/1200/800",
-      "https://picsum.photos/seed/seed-00085-2/1200/800",
-      "https://picsum.photos/seed/seed-00085-3/1200/800",
-      "https://picsum.photos/seed/seed-00085-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 9622.76,
@@ -2138,12 +2138,12 @@
     "frontage": 6.0,
     "furniture_state": "Fully furnished",
     "house_direction": "North",
-    "image_url": "https://picsum.photos/seed/seed-00086/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00086-1/1200/800",
-      "https://picsum.photos/seed/seed-00086-2/1200/800",
-      "https://picsum.photos/seed/seed-00086-3/1200/800",
-      "https://picsum.photos/seed/seed-00086-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 5167.85,
@@ -2163,12 +2163,12 @@
     "frontage": 3.3,
     "furniture_state": "Basic furnished",
     "house_direction": "Northwest",
-    "image_url": "https://picsum.photos/seed/seed-00087/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00087-1/1200/800",
-      "https://picsum.photos/seed/seed-00087-2/1200/800",
-      "https://picsum.photos/seed/seed-00087-3/1200/800",
-      "https://picsum.photos/seed/seed-00087-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 17107.96,
@@ -2188,12 +2188,12 @@
     "frontage": 8.3,
     "furniture_state": "Basic furnished",
     "house_direction": "South",
-    "image_url": "https://picsum.photos/seed/seed-00088/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00088-1/1200/800",
-      "https://picsum.photos/seed/seed-00088-2/1200/800",
-      "https://picsum.photos/seed/seed-00088-3/1200/800",
-      "https://picsum.photos/seed/seed-00088-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 9835.96,
@@ -2213,12 +2213,12 @@
     "frontage": 8.0,
     "furniture_state": "Fully furnished",
     "house_direction": "Northwest",
-    "image_url": "https://picsum.photos/seed/seed-00089/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00089-1/1200/800",
-      "https://picsum.photos/seed/seed-00089-2/1200/800",
-      "https://picsum.photos/seed/seed-00089-3/1200/800",
-      "https://picsum.photos/seed/seed-00089-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 4900.51,
@@ -2238,12 +2238,12 @@
     "frontage": 6.7,
     "furniture_state": "N/A",
     "house_direction": "North",
-    "image_url": "https://picsum.photos/seed/seed-00090/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00090-1/1200/800",
-      "https://picsum.photos/seed/seed-00090-2/1200/800",
-      "https://picsum.photos/seed/seed-00090-3/1200/800",
-      "https://picsum.photos/seed/seed-00090-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 19245.53,
@@ -2263,12 +2263,12 @@
     "frontage": 5.7,
     "furniture_state": "Fully furnished",
     "house_direction": "Northeast",
-    "image_url": "https://picsum.photos/seed/seed-00091/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00091-1/1200/800",
-      "https://picsum.photos/seed/seed-00091-2/1200/800",
-      "https://picsum.photos/seed/seed-00091-3/1200/800",
-      "https://picsum.photos/seed/seed-00091-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 4060.8,
@@ -2288,12 +2288,12 @@
     "frontage": 5.7,
     "furniture_state": "Basic furnished",
     "house_direction": "Southeast",
-    "image_url": "https://picsum.photos/seed/seed-00092/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00092-1/1200/800",
-      "https://picsum.photos/seed/seed-00092-2/1200/800",
-      "https://picsum.photos/seed/seed-00092-3/1200/800",
-      "https://picsum.photos/seed/seed-00092-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 12728.59,
@@ -2313,12 +2313,12 @@
     "frontage": 6.3,
     "furniture_state": "Basic furnished",
     "house_direction": "North",
-    "image_url": "https://picsum.photos/seed/seed-00093/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00093-1/1200/800",
-      "https://picsum.photos/seed/seed-00093-2/1200/800",
-      "https://picsum.photos/seed/seed-00093-3/1200/800",
-      "https://picsum.photos/seed/seed-00093-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 4571.16,
@@ -2338,12 +2338,12 @@
     "frontage": 6.3,
     "furniture_state": "Basic furnished",
     "house_direction": "Southeast",
-    "image_url": "https://picsum.photos/seed/seed-00094/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00094-1/1200/800",
-      "https://picsum.photos/seed/seed-00094-2/1200/800",
-      "https://picsum.photos/seed/seed-00094-3/1200/800",
-      "https://picsum.photos/seed/seed-00094-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 8089.07,
@@ -2363,12 +2363,12 @@
     "frontage": 4.0,
     "furniture_state": "Basic furnished",
     "house_direction": "Northwest",
-    "image_url": "https://picsum.photos/seed/seed-00095/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00095-1/1200/800",
-      "https://picsum.photos/seed/seed-00095-2/1200/800",
-      "https://picsum.photos/seed/seed-00095-3/1200/800",
-      "https://picsum.photos/seed/seed-00095-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 28215.84,
@@ -2388,12 +2388,12 @@
     "frontage": 5.4,
     "furniture_state": "N/A",
     "house_direction": "North",
-    "image_url": "https://picsum.photos/seed/seed-00096/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00096-1/1200/800",
-      "https://picsum.photos/seed/seed-00096-2/1200/800",
-      "https://picsum.photos/seed/seed-00096-3/1200/800",
-      "https://picsum.photos/seed/seed-00096-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 2587.98,
@@ -2413,12 +2413,12 @@
     "frontage": 6.6,
     "furniture_state": "Unfurnished",
     "house_direction": "Northeast",
-    "image_url": "https://picsum.photos/seed/seed-00097/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00097-1/1200/800",
-      "https://picsum.photos/seed/seed-00097-2/1200/800",
-      "https://picsum.photos/seed/seed-00097-3/1200/800",
-      "https://picsum.photos/seed/seed-00097-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 17100.55,
@@ -2438,12 +2438,12 @@
     "frontage": 6.7,
     "furniture_state": "Unfurnished",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00098/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00098-1/1200/800",
-      "https://picsum.photos/seed/seed-00098-2/1200/800",
-      "https://picsum.photos/seed/seed-00098-3/1200/800",
-      "https://picsum.photos/seed/seed-00098-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 6938.61,
@@ -2463,12 +2463,12 @@
     "frontage": 9.3,
     "furniture_state": "N/A",
     "house_direction": "Northwest",
-    "image_url": "https://picsum.photos/seed/seed-00099/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00099-1/1200/800",
-      "https://picsum.photos/seed/seed-00099-2/1200/800",
-      "https://picsum.photos/seed/seed-00099-3/1200/800",
-      "https://picsum.photos/seed/seed-00099-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 2338.2,
@@ -2488,12 +2488,12 @@
     "frontage": 6.1,
     "furniture_state": "N/A",
     "house_direction": "West",
-    "image_url": "https://picsum.photos/seed/seed-00100/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00100-1/1200/800",
-      "https://picsum.photos/seed/seed-00100-2/1200/800",
-      "https://picsum.photos/seed/seed-00100-3/1200/800",
-      "https://picsum.photos/seed/seed-00100-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 26153.07,
@@ -2513,12 +2513,12 @@
     "frontage": 8.3,
     "furniture_state": "N/A",
     "house_direction": "Southwest",
-    "image_url": "https://picsum.photos/seed/seed-00101/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00101-1/1200/800",
-      "https://picsum.photos/seed/seed-00101-2/1200/800",
-      "https://picsum.photos/seed/seed-00101-3/1200/800",
-      "https://picsum.photos/seed/seed-00101-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 3433.06,
@@ -2538,12 +2538,12 @@
     "frontage": 7.3,
     "furniture_state": "Fully furnished",
     "house_direction": "South",
-    "image_url": "https://picsum.photos/seed/seed-00102/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00102-1/1200/800",
-      "https://picsum.photos/seed/seed-00102-2/1200/800",
-      "https://picsum.photos/seed/seed-00102-3/1200/800",
-      "https://picsum.photos/seed/seed-00102-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 14075.4,
@@ -2563,12 +2563,12 @@
     "frontage": 3.6,
     "furniture_state": "N/A",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00103/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00103-1/1200/800",
-      "https://picsum.photos/seed/seed-00103-2/1200/800",
-      "https://picsum.photos/seed/seed-00103-3/1200/800",
-      "https://picsum.photos/seed/seed-00103-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 6823.33,
@@ -2588,12 +2588,12 @@
     "frontage": 3.9,
     "furniture_state": "Fully furnished",
     "house_direction": "Southeast",
-    "image_url": "https://picsum.photos/seed/seed-00104/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00104-1/1200/800",
-      "https://picsum.photos/seed/seed-00104-2/1200/800",
-      "https://picsum.photos/seed/seed-00104-3/1200/800",
-      "https://picsum.photos/seed/seed-00104-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 6389.44,
@@ -2613,12 +2613,12 @@
     "frontage": 7.6,
     "furniture_state": "Fully furnished",
     "house_direction": "Northeast",
-    "image_url": "https://picsum.photos/seed/seed-00105/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00105-1/1200/800",
-      "https://picsum.photos/seed/seed-00105-2/1200/800",
-      "https://picsum.photos/seed/seed-00105-3/1200/800",
-      "https://picsum.photos/seed/seed-00105-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 23082.47,
@@ -2638,12 +2638,12 @@
     "frontage": 5.7,
     "furniture_state": "N/A",
     "house_direction": "Northeast",
-    "image_url": "https://picsum.photos/seed/seed-00106/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00106-1/1200/800",
-      "https://picsum.photos/seed/seed-00106-2/1200/800",
-      "https://picsum.photos/seed/seed-00106-3/1200/800",
-      "https://picsum.photos/seed/seed-00106-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 11548.33,
@@ -2663,12 +2663,12 @@
     "frontage": 8.5,
     "furniture_state": "Fully furnished",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00107/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00107-1/1200/800",
-      "https://picsum.photos/seed/seed-00107-2/1200/800",
-      "https://picsum.photos/seed/seed-00107-3/1200/800",
-      "https://picsum.photos/seed/seed-00107-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 6929.07,
@@ -2688,12 +2688,12 @@
     "frontage": 9.0,
     "furniture_state": "N/A",
     "house_direction": "South",
-    "image_url": "https://picsum.photos/seed/seed-00108/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00108-1/1200/800",
-      "https://picsum.photos/seed/seed-00108-2/1200/800",
-      "https://picsum.photos/seed/seed-00108-3/1200/800",
-      "https://picsum.photos/seed/seed-00108-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 4636.68,
@@ -2713,12 +2713,12 @@
     "frontage": 8.0,
     "furniture_state": "Fully furnished",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00109/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00109-1/1200/800",
-      "https://picsum.photos/seed/seed-00109-2/1200/800",
-      "https://picsum.photos/seed/seed-00109-3/1200/800",
-      "https://picsum.photos/seed/seed-00109-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 11434.91,
@@ -2738,12 +2738,12 @@
     "frontage": 8.5,
     "furniture_state": "Basic furnished",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00110/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00110-1/1200/800",
-      "https://picsum.photos/seed/seed-00110-2/1200/800",
-      "https://picsum.photos/seed/seed-00110-3/1200/800",
-      "https://picsum.photos/seed/seed-00110-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 3985.61,
@@ -2763,12 +2763,12 @@
     "frontage": 8.8,
     "furniture_state": "Fully furnished",
     "house_direction": "South",
-    "image_url": "https://picsum.photos/seed/seed-00111/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00111-1/1200/800",
-      "https://picsum.photos/seed/seed-00111-2/1200/800",
-      "https://picsum.photos/seed/seed-00111-3/1200/800",
-      "https://picsum.photos/seed/seed-00111-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 19228.69,
@@ -2788,12 +2788,12 @@
     "frontage": 9.2,
     "furniture_state": "Fully furnished",
     "house_direction": "Southeast",
-    "image_url": "https://picsum.photos/seed/seed-00112/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00112-1/1200/800",
-      "https://picsum.photos/seed/seed-00112-2/1200/800",
-      "https://picsum.photos/seed/seed-00112-3/1200/800",
-      "https://picsum.photos/seed/seed-00112-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 11457.96,
@@ -2813,12 +2813,12 @@
     "frontage": 6.5,
     "furniture_state": "Basic furnished",
     "house_direction": "West",
-    "image_url": "https://picsum.photos/seed/seed-00113/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00113-1/1200/800",
-      "https://picsum.photos/seed/seed-00113-2/1200/800",
-      "https://picsum.photos/seed/seed-00113-3/1200/800",
-      "https://picsum.photos/seed/seed-00113-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 9980.1,
@@ -2838,12 +2838,12 @@
     "frontage": 9.1,
     "furniture_state": "Fully furnished",
     "house_direction": "North",
-    "image_url": "https://picsum.photos/seed/seed-00114/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00114-1/1200/800",
-      "https://picsum.photos/seed/seed-00114-2/1200/800",
-      "https://picsum.photos/seed/seed-00114-3/1200/800",
-      "https://picsum.photos/seed/seed-00114-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 10403.37,
@@ -2863,12 +2863,12 @@
     "frontage": 4.7,
     "furniture_state": "Fully furnished",
     "house_direction": "North",
-    "image_url": "https://picsum.photos/seed/seed-00115/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00115-1/1200/800",
-      "https://picsum.photos/seed/seed-00115-2/1200/800",
-      "https://picsum.photos/seed/seed-00115-3/1200/800",
-      "https://picsum.photos/seed/seed-00115-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 11583.98,
@@ -2888,12 +2888,12 @@
     "frontage": 5.9,
     "furniture_state": "Fully furnished",
     "house_direction": "North",
-    "image_url": "https://picsum.photos/seed/seed-00116/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00116-1/1200/800",
-      "https://picsum.photos/seed/seed-00116-2/1200/800",
-      "https://picsum.photos/seed/seed-00116-3/1200/800",
-      "https://picsum.photos/seed/seed-00116-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Sale contract",
     "price": 15067.61,
@@ -2913,12 +2913,12 @@
     "frontage": 4.4,
     "furniture_state": "Basic furnished",
     "house_direction": "Northeast",
-    "image_url": "https://picsum.photos/seed/seed-00117/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00117-1/1200/800",
-      "https://picsum.photos/seed/seed-00117-2/1200/800",
-      "https://picsum.photos/seed/seed-00117-3/1200/800",
-      "https://picsum.photos/seed/seed-00117-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 21589.44,
@@ -2938,12 +2938,12 @@
     "frontage": 8.0,
     "furniture_state": "N/A",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00118/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00118-1/1200/800",
-      "https://picsum.photos/seed/seed-00118-2/1200/800",
-      "https://picsum.photos/seed/seed-00118-3/1200/800",
-      "https://picsum.photos/seed/seed-00118-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Red book",
     "price": 10952.64,
@@ -2963,12 +2963,12 @@
     "frontage": 6.0,
     "furniture_state": "Fully furnished",
     "house_direction": "East",
-    "image_url": "https://picsum.photos/seed/seed-00119/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00119-1/1200/800",
-      "https://picsum.photos/seed/seed-00119-2/1200/800",
-      "https://picsum.photos/seed/seed-00119-3/1200/800",
-      "https://picsum.photos/seed/seed-00119-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 12198.03,
@@ -2988,12 +2988,12 @@
     "frontage": 6.4,
     "furniture_state": "Basic furnished",
     "house_direction": "Northeast",
-    "image_url": "https://picsum.photos/seed/seed-00120/1200/800",
+    "image_url": "/pic/house.jpg",
     "images": [
-      "https://picsum.photos/seed/seed-00120-1/1200/800",
-      "https://picsum.photos/seed/seed-00120-2/1200/800",
-      "https://picsum.photos/seed/seed-00120-3/1200/800",
-      "https://picsum.photos/seed/seed-00120-4/1200/800"
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg",
+      "/pic/house.jpg"
     ],
     "legal_status": "Pink book",
     "price": 8932.85,

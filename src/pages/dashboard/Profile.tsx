@@ -47,7 +47,7 @@ export default function Profile() {
                   <img 
                     alt="Alex Wright" 
                     className="w-full h-full object-cover" 
-                    src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200" 
+                    src="/pic/house.jpg" 
                     referrerPolicy="no-referrer"
                   />
                 </div>
@@ -122,7 +122,7 @@ export default function Profile() {
                   <img 
                     alt="Modernist Villa" 
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" 
-                    src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800" 
+                    src="/pic/house.jpg" 
                   />
                   <button className="absolute top-6 right-6 p-3 bg-white/90 backdrop-blur rounded-full text-secondary shadow-lg">
                     <Heart className="w-5 h-5 fill-secondary" />
@@ -147,7 +147,7 @@ export default function Profile() {
                   <img 
                     alt="Penthouse View" 
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" 
-                    src="https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&q=80&w=800" 
+                    src="/pic/house.jpg" 
                   />
                   <button className="absolute top-6 right-6 p-3 bg-white/20 backdrop-blur rounded-full text-white">
                     <Heart className="w-5 h-5" />
