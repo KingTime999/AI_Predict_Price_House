@@ -47,7 +47,7 @@ export default function Profile() {
                   <img 
                     alt="Alex Wright" 
                     className="w-full h-full object-cover" 
-                    src="/static/house.jpg" 
+                    src="/pic/house.jpg" 
                     referrerPolicy="no-referrer"
                   />
                 </div>
@@ -122,7 +122,7 @@ export default function Profile() {
                   <img 
                     alt="Modernist Villa" 
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" 
-                    src="/static/house.jpg" 
+                    src="/pic/house.jpg" 
                   />
                   <button className="absolute top-6 right-6 p-3 bg-white/90 backdrop-blur rounded-full text-secondary shadow-lg">
                     <Heart className="w-5 h-5 fill-secondary" />
@@ -147,7 +147,7 @@ export default function Profile() {
                   <img 
                     alt="Penthouse View" 
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" 
-                    src="/static/house.jpg" 
+                    src="/pic/house.jpg" 
                   />
                   <button className="absolute top-6 right-6 p-3 bg-white/20 backdrop-blur rounded-full text-white">
                     <Heart className="w-5 h-5" />

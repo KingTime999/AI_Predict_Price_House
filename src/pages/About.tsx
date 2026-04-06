@@ -18,7 +18,7 @@ export default function About() {
           </div>
           <div className="lg:col-span-5">
             <div className="aspect-[4/5] rounded-xl overflow-hidden shadow-2xl">
-              <img src="/static/house.jpg" alt="Architecture" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+              <img src="/pic/house.jpg" alt="Architecture" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
             </div>
           </div>
         </div>
@@ -54,7 +54,7 @@ export default function About() {
             {[1, 2, 3, 4].map((i) => (
               <div key={i} className="group">
                 <div className="aspect-[3/4] rounded-xl overflow-hidden mb-6 bg-slate-200">
-                  <img src="/static/house.jpg" alt="Expert" className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500" referrerPolicy="no-referrer" />
+                  <img src="/pic/house.jpg" alt="Expert" className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500" referrerPolicy="no-referrer" />
                 </div>
                 <h4 className="text-lg font-bold font-headline text-primary">Dr. Elias Thorne</h4>
                 <p className="text-sm text-slate-500 font-medium">Head of Algorithmic Logic</p>

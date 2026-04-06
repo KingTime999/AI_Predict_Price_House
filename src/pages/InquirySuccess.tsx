@@ -157,7 +157,7 @@ export default function InquirySuccess() {
                     <img 
                       key={i}
                       className="w-10 h-10 rounded-full border-2 border-white object-cover" 
-                      src="/static/house.jpg"
+                      src="/pic/house.jpg"
                       alt="Agent"
                     />
                   ))}

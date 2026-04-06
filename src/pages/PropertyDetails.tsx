@@ -253,7 +253,7 @@ export default function PropertyDetails() {
             <div className="bg-white p-8 rounded-2xl shadow-xl border border-slate-100">
               <div className="flex items-center gap-5 mb-10">
                 <div className="w-16 h-16 rounded-full overflow-hidden border-2 border-slate-50">
-                  <img className="w-full h-full object-cover" src={property.agent.image || '/static/house.jpg'} alt={property.agent.name} referrerPolicy="no-referrer" />
+                  <img className="w-full h-full object-cover" src={property.agent.image || '/pic/house.jpg'} alt={property.agent.name} referrerPolicy="no-referrer" />
                 </div>
                 <div>
                   <h4 className="font-bold text-primary font-headline text-lg">{property.agent.name}</h4>
@@ -346,7 +346,7 @@ export default function PropertyDetails() {
             {property.similar.map((item) => (
               <Link key={item.id} to={`/property/${item.id}`} className="bg-white rounded-2xl overflow-hidden group shadow-sm hover:shadow-xl transition-all duration-500 border border-slate-100">
                 <div className="h-72 overflow-hidden relative">
-                  <img className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" src={item.image || '/static/house.jpg'} alt={item.title} referrerPolicy="no-referrer" />
+                  <img className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" src={item.image || '/pic/house.jpg'} alt={item.title} referrerPolicy="no-referrer" />
                   {item.tag && (
                     <div className="absolute top-6 right-6 bg-white/90 backdrop-blur-md px-4 py-1.5 rounded-full text-[10px] font-black uppercase tracking-widest text-primary shadow-lg">
                       {item.tag}
