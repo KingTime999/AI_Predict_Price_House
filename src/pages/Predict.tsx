@@ -87,7 +87,7 @@ export default function Predict() {
                 </div>
                 <div>
                   <span className="text-slate-500">Price Range:</span>
-                  <p className="font-bold text-primary">4.50 - 135,000 tr VND</p>
+                  <p className="font-bold text-primary">4,500,000 - 135,000,000,000 VNĐ</p>
                 </div>
                 <div>
                   <span className="text-slate-500">Locations:</span>
@@ -261,8 +261,9 @@ export default function Predict() {
                 <div className="lg:col-span-7 bg-white p-10 rounded-xl relative overflow-hidden flex flex-col justify-between shadow-sm">
                   <div>
                     <span className="text-xs font-bold text-slate-500 uppercase tracking-widest">Estimated Value</span>
-                    <div className="text-7xl font-black font-headline text-primary mt-4 tracking-tighter">
-                      {Math.round(result.estimatedValue).toLocaleString('en-US')} tr VND
+                    <div className="text-6xl font-black font-headline text-primary mt-4 tracking-tighter flex items-baseline gap-2">
+                      <span>{(Math.round(result.estimatedValue) * 1000000).toLocaleString('vi-VN')}</span>
+                      <span className="text-3xl">VNĐ</span>
                     </div>
                   </div>
                   <div className="mt-12 flex items-center space-x-4">

@@ -6,7 +6,7 @@ import { Loader2, MapPin, Grid, Map as MapIcon, Bed, Bath, Square, Heart } from 
 import { fetchProperties, PropertyCard } from '../services/apiService';
 
 function formatPriceInMillionVnd(price: number): string {
-  return `${price.toLocaleString('vi-VN')} tr VND`;
+  return `${(price * 1000000).toLocaleString('vi-VN')} VNĐ`;
 }
 
 export default function SearchPage() {

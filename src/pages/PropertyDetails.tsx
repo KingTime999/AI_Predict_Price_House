@@ -20,7 +20,7 @@ import {
 import { fetchPropertyById, PropertyDetail as PropertyDetailType, submitInquiry } from '../services/apiService';
 
 function formatPriceInMillionVnd(price: number): string {
-  return `${price.toLocaleString('vi-VN')} tr VND`;
+  return `${(price * 1000000).toLocaleString('vi-VN')} VNĐ`;
 }
 
 export default function PropertyDetails() {

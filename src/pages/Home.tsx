@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 import { fetchFeaturedProperties, PropertyCard } from '../services/apiService';
 
 function formatPriceInMillionVnd(price: number): string {
-  return `${price.toLocaleString('vi-VN')} tr VND`;
+  return `${(price * 1000000).toLocaleString('vi-VN')} VNĐ`;
 }
 
 export default function Home() {
