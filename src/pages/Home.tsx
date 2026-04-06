@@ -58,10 +58,10 @@ export default function Home() {
             className="max-w-3xl"
           >
             <h1 className="font-headline text-5xl md:text-7xl font-extrabold tracking-tight text-white mb-6 leading-[1.1]">
-              The Science of <span className="text-secondary-container">Luxury Living</span>.
+              Vietnamese Real Estate <span className="text-secondary-container">Price Prediction</span>.
             </h1>
             <p className="text-lg text-white/90 font-medium max-w-xl mb-12">
-              Engineered precision for the discerning investor. Access proprietary market data and architectural excellence.
+              AI-powered valuation on 54,202 real property listings. Search, filter, and predict prices across 261 Vietnamese cities and districts.
             </p>
 
             {/* Search Overlay */}
@@ -103,7 +103,7 @@ export default function Home() {
                 </div>
                 <div>
                   <h4 className="font-headline font-bold text-lg text-primary mb-1">Data-Driven Predictions</h4>
-                  <p className="text-slate-600 leading-relaxed">Our proprietary AI analyzes 50+ architectural variables to predict future market valuations with 94% accuracy.</p>
+                  <p className="text-slate-600 leading-relaxed">Built on 54,202 real property listings from Vietnam. Linear regression model trained on area, bedrooms, bathrooms, floors, and location data with R² score of 12.4%.</p>
                 </div>
               </div>
             </div>
@@ -115,10 +115,10 @@ export default function Home() {
             <div className="absolute -bottom-8 -left-8 glass-panel p-6 rounded-xl shadow-xl max-w-xs border-l-4 border-secondary">
               <div className="flex items-center gap-3 mb-2 text-secondary">
                 <TrendingUp className="w-4 h-4" />
-                <span className="text-xs font-bold tracking-widest uppercase">Live Insight</span>
+                <span className="text-xs font-bold tracking-widest uppercase">Dataset Features</span>
               </div>
-              <p className="font-headline font-bold text-primary mb-2">Valuation Surge Predicted</p>
-              <p className="text-xs text-slate-600 leading-relaxed">Residential properties in the West Sector are projected to appreciate by 12.4% by Q4 2025.</p>
+              <p className="font-headline font-bold text-primary mb-2">54,202 Properties</p>
+              <p className="text-xs text-slate-600 leading-relaxed">Across 261 locations in Vietnam with price range 1-99,900 million VND. Area range 1-499 m².</p>
             </div>
           </div>
         </div>

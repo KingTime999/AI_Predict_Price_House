@@ -30,7 +30,7 @@ export default function SearchPage() {
       setProperties(response.items);
       setTotal(response.total);
     } catch (requestError) {
-      setError('Cannot load property list. Check backend API and MongoDB connection.');
+      setError('Cannot load property list. Check backend API connection.');
       setProperties([]);
       setTotal(0);
       console.error(requestError);
@@ -95,8 +95,8 @@ export default function SearchPage() {
         <section className="flex-1">
           <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-10 gap-4">
             <div>
-              <h1 className="text-4xl font-extrabold tracking-tight text-primary">Exclusive Listings</h1>
-              <p className="text-slate-500 text-sm mt-1">Found {total} properties from Vietnam dataset</p>
+              <h1 className="text-4xl font-extrabold tracking-tight text-primary">Property Listings</h1>
+              <p className="text-slate-500 text-sm mt-1">Found {total} properties from Catalyst dataset (54,202 total across 261 locations)</p>
             </div>
             <div className="flex items-center gap-4">
               <div className="flex items-center bg-slate-100 rounded-lg p-1">

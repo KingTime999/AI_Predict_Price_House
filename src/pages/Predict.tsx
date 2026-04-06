@@ -14,7 +14,6 @@ export default function Predict() {
     bedrooms: '3',
     bathrooms: '2',
     frontage: 'false',
-    accessRoad: '10',
     floors: '2',
     legalStatus: 'Sale contract',
     furnitureState: 'Fully furnished',
@@ -45,7 +44,6 @@ export default function Predict() {
         bedrooms: Number(formData.bedrooms),
         bathrooms: Number(formData.bathrooms),
         frontage: formData.frontage === 'true' ? 1 : 0,
-        accessRoad: Number(formData.accessRoad),
         floors: Number(formData.floors),
         legalStatus: formData.legalStatus,
         furnitureState: formData.furnitureState,
@@ -64,40 +62,40 @@ export default function Predict() {
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
           <div className="lg:col-span-5">
-            <span className="text-xs font-bold text-slate-500 tracking-widest uppercase block mb-4">Precision Valuation</span>
+            <span className="text-xs font-bold text-slate-500 tracking-widest uppercase block mb-4">AI Valuation</span>
             <h1 className="text-6xl font-extrabold font-headline leading-tight tracking-tight text-primary mb-8">
-              The Architect of <br /><span className="text-secondary">Value Prediction.</span>
+              Property Price <br /><span className="text-secondary">Estimation Tool.</span>
             </h1>
             <p className="text-lg text-slate-600 font-medium leading-relaxed mb-12 max-w-md">
-              Our proprietary AI engine leverages granular market datasets to provide valuation insights with professional-grade accuracy.
+              Predict prices using machine learning trained on 54,202 real properties from Vietnam. Linear regression with features: area, bedrooms, bathrooms, floors, frontage, and location.
             </p>
             <div className="prediction-pulse bg-white p-6 rounded-lg shadow-sm border-l-4 border-secondary mb-6">
               <div className="flex items-center space-x-3 mb-2">
                 <Zap className="text-secondary w-5 h-5 fill-secondary" />
-                <span className="text-sm font-bold tracking-widest uppercase">Live Pulse</span>
+                <span className="text-sm font-bold tracking-widest uppercase">Dataset Features</span>
               </div>
-              <p className="text-sm text-slate-600 italic">"Current market trends show a 4.2% appreciation in suburban mid-century modern properties."</p>
+              <p className="text-sm text-slate-600 italic">"Training data spans 261 locations across Vietnam with prices from 1 to 99,900 million VND."</p>
             </div>
             
             {/* Dataset Info */}
             <div className="bg-slate-50 p-6 rounded-lg border border-slate-200">
-              <div className="text-xs font-bold text-slate-600 tracking-widest uppercase mb-3">Dataset Summary (1200 Properties)</div>
+              <div className="text-xs font-bold text-slate-600 tracking-widest uppercase mb-3">Dataset Summary (52,803 Properties)</div>
               <div className="grid grid-cols-2 gap-4 text-sm">
                 <div>
                   <span className="text-slate-500">Area Range:</span>
-                  <p className="font-bold text-primary">31 - 279 m²</p>
+                  <p className="font-bold text-primary">1 - 499 m²</p>
                 </div>
                 <div>
                   <span className="text-slate-500">Price Range:</span>
-                  <p className="font-bold text-primary">2,034 - 34,857 tr VND</p>
+                  <p className="font-bold text-primary">4.50 - 135,000 tr VND</p>
                 </div>
                 <div>
                   <span className="text-slate-500">Locations:</span>
-                  <p className="font-bold text-primary">10 Cities</p>
+                  <p className="font-bold text-primary">249 Districts</p>
                 </div>
                 <div>
-                  <span className="text-slate-500">Avg Accuracy:</span>
-                  <p className="font-bold text-secondary">49.6%</p>
+                  <span className="text-slate-500">Model R² Score:</span>
+                  <p className="font-bold text-secondary">17.51% ⬆️</p>
                 </div>
               </div>
             </div>
@@ -118,7 +116,7 @@ export default function Predict() {
                       value={formData.area}
                       onChange={handleInputChange}
                       className="w-full bg-slate-50 border-none rounded-lg p-4 focus:ring-2 focus:ring-primary/20 transition-all" 
-                      placeholder="e.g. 120 (range: 31-279)" 
+                      placeholder="e.g. 100 (range: 1-499)" 
                       type="number" 
                       required
                     />
@@ -188,7 +186,13 @@ export default function Predict() {
                       name="legalStatus"
                       value={formData.legalStatus}
                       onChange={handleInputChange}
-                      className="w-full bg-slate-50 border-none rounded-lg p-4 focus:ring-2 focus:ring-primary/20 transition-all appearance-none"
+                      className="w-full bg-slate-50 border-2 border-slate-200 rounded-lg p-4 focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all appearance-none bg-no-repeat"
+                      style={{
+                        backgroundImage: `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23475569' d='M6 9L1 4h10z'/%3E%3C/svg%3E")`,
+                        backgroundPosition: 'right 1rem center',
+                        backgroundRepeat: 'no-repeat',
+                        paddingRight: '2.5rem'
+                      }}
                     >
                       <option>Sale contract</option>
                       <option>Pink book</option>
@@ -202,12 +206,18 @@ export default function Predict() {
                       name="furnitureState"
                       value={formData.furnitureState}
                       onChange={handleInputChange}
-                      className="w-full bg-slate-50 border-none rounded-lg p-4 focus:ring-2 focus:ring-primary/20 transition-all appearance-none"
+                      className="w-full bg-slate-50 border-2 border-slate-200 rounded-lg p-4 focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all appearance-none bg-no-repeat"
+                      style={{
+                        backgroundImage: `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23475569' d='M6 9L1 4h10z'/%3E%3C/svg%3E")`,
+                        backgroundPosition: 'right 1rem center',
+                        backgroundRepeat: 'no-repeat',
+                        paddingRight: '2.5rem'
+                      }}
                     >
-                      <option>N/A</option>
                       <option>Fully furnished</option>
                       <option>Basic furnished</option>
                       <option>Unfurnished</option>
+                      <option>N/A</option>
                     </select>
                   </div>
                 </div>
@@ -252,7 +262,7 @@ export default function Predict() {
                   <div>
                     <span className="text-xs font-bold text-slate-500 uppercase tracking-widest">Estimated Value</span>
                     <div className="text-7xl font-black font-headline text-primary mt-4 tracking-tighter">
-                      {(result.estimatedValue * 1000000).toLocaleString('vi-VN')} VND
+                      {Math.round(result.estimatedValue).toLocaleString('en-US')} tr VND
                     </div>
                   </div>
                   <div className="mt-12 flex items-center space-x-4">
@@ -265,13 +275,13 @@ export default function Predict() {
                 <div className="lg:col-span-5 bg-white p-10 rounded-xl flex flex-col justify-center shadow-sm">
                   <span className="text-xs font-bold text-slate-500 uppercase tracking-widest mb-6">Model Confidence</span>
                   <div className="flex items-end space-x-2 mb-4">
-                    <span className="text-5xl font-black font-headline text-secondary">{result.confidence}%</span>
-                    <span className="text-sm font-bold text-slate-400 mb-2 uppercase">Accuracy</span>
+                    <span className="text-5xl font-black font-headline text-secondary">{(result.confidence * 100).toFixed(2)}</span>
+                    <span className="text-sm font-bold text-slate-400 mb-2 uppercase">% Accuracy</span>
                   </div>
                   <div className="w-full bg-slate-100 h-2 rounded-full overflow-hidden">
                     <motion.div 
                       initial={{ width: 0 }}
-                      animate={{ width: `${result.confidence}%` }}
+                      animate={{ width: `${result.confidence * 100}%` }}
                       transition={{ duration: 1, ease: "easeOut" }}
                       className="h-full bg-secondary"
                     ></motion.div>
