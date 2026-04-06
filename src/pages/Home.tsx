@@ -44,8 +44,8 @@ export default function Home() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 1 }}
-          src={currentCityImage === 'tphcm' ? '/pic/tphcm.webp' : '/pic/hanoi.jpg'}
-          alt={currentCityImage === 'tphcm' ? 'Ho Chi Minh City' : 'Hanoi'}
+          src="/static/house.jpg"
+          alt="Property"
           className="absolute inset-0 w-full h-full object-cover"
           referrerPolicy="no-referrer"
         />
@@ -110,7 +110,7 @@ export default function Home() {
           </div>
           <div className="md:col-span-7 relative">
             <div className="aspect-video rounded-xl overflow-hidden shadow-2xl">
-              <img src="/pic/house.jpg" alt="Interior" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+              <img src="/static/house.jpg" alt="Interior" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
             </div>
             <div className="absolute -bottom-8 -left-8 glass-panel p-6 rounded-xl shadow-xl max-w-xs border-l-4 border-secondary">
               <div className="flex items-center gap-3 mb-2 text-secondary">
